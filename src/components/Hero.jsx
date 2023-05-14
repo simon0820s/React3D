@@ -102,7 +102,7 @@ const Hero = () => {
         </Left>
 
         <Rigth>
-
+          {/*3D model*/}
           <Img src="./img/moon.png" alt="moonMan"/>
 
         </Rigth>
