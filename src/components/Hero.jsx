@@ -36,7 +36,7 @@ const Line = styled.img`
   height:5px;
 `
 const SubTitle = styled.h2`
-  color:#da4ea2e4;
+  color:#da4ea2;
 `
 const Description = styled.p`
   font-size:24px;
