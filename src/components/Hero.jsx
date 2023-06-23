@@ -45,7 +45,7 @@ const Description = styled.p`
 const Button = styled.button`
   width:100px;
   padding:10px;
-  background-color:#da4ea29b;
+  background-color:#da4ea2;
   color:white;
   border:none;
   border-radius:5px;
